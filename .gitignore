@@ -52,5 +52,5 @@ local-data
 .cursorrules
 .cursor
 *.ignore
-.mcp-config.json
+#.mcp-config.json
 openai-compatible.config.ts

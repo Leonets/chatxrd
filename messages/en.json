@@ -169,7 +169,7 @@
       "createAccount": "Create account"
     },
     "Intro": {
-      "description": "Welcome to better-chatbot. Sign in to experience our AI-powered conversational tools."
+      "description": "Welcome to ZeroCollateral Chatbot. Sign in to experience our AI-powered conversational tools."
     }
   },
   "Chat": {
@@ -240,7 +240,6 @@
     },
     "Thread": {
       "chat": "Chat",
-
       "renameChat": "Re Name",
       "deleteChat": "Delete Chat",
       "deleteUnarchivedChats": "Delete All Unarchived Chats",
@@ -255,7 +254,6 @@
       "threadUpdated": "Thread updated",
       "areYouSureYouWantToDeleteThisChatThread": "Are you sure you want to delete this Chat thread?"
     },
-
     "ChatPreferences": {
       "title": "Chat Preferences",
       "whatShouldWeCallYou": "What should we call you?",
@@ -323,7 +321,6 @@
     "theme": "Theme",
     "signOut": "Sign out",
     "language": "Language",
-
     "showAllChats": "View All Chats",
     "showLessChats": "Show less",
     "reportAnIssue": "Report an issue",

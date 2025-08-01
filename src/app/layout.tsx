@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "better-chatbot",
+  title: "ZeroCollateral Chatbot",
   description:
-    "Better Chatbot is a chatbot that uses the Tools to answer questions.",
+    "ZeroCollateral Chatbot is a chatbot for you to assist in your Defi strategies",
 };
 
 // const themes = BASE_THEMES.flatMap((t) => [t, `${t}-dark`]);
